@@ -1,0 +1,5 @@
+name: SafeAnchors
+author: FoPzl
+main: com.fopzl.safeanchors.SafeAnchors
+version: 0.1
+api-version: 1.16
